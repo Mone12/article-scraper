@@ -1,0 +1,14 @@
+.jumbotron {
+    background-image: url("./space.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 400px;
+}
+
+.caption {
+    margin-top: 10%;
+}
+
+.caption > h1 {
+    font-size: 70px;
+}
