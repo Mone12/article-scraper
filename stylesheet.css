@@ -1,3 +1,11 @@
+body {
+    background-color:#30638a;
+}
+
+nav > a {
+    font-weight: bold;
+}
+
 .jumbotron {
     background-image: url("./space.jpg");
     background-size: cover;
@@ -12,3 +20,4 @@
 .caption > h1 {
     font-size: 70px;
 }
+
